@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+  }
+hr {
+    width:90%;
+    text-align: center;
+}
+
+h2 {
+    font-size: medium;
+    text-align: left;
+    margin-left: 5%;
+}
+
+li {
+    font-size: small;
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+div {
+    display: flex
+}
+
+h3 {
+    font-size: small;
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+p {
+    font-size: small;
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
